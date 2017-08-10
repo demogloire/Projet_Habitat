@@ -72,7 +72,7 @@ class DATABASE_CONFIG {
 		'host' => 'localhost',
 		'login' => 'user',
 		'password' => 'password',
-		'database' => 'projet',
+		'database' => 'projetk',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
